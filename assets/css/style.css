@@ -251,3 +251,6 @@ footer ul {
     filter: invert(55%) sepia(100%) saturate(500%) hue-rotate(180deg);
 }
 
+.img-proj{
+    width: 500px;
+}
